@@ -9,7 +9,7 @@ body{
 	display: grid;
   background: #282828;
 	place-items: center;
-	min-height: 100vh;
+	min-height: 100%;
 }
 .main{
     position: relative;
